@@ -5,7 +5,7 @@ Sou um aprendiz curioso, sempre buscando evoluir e explorar novas tecnologias ğŸ
 Atualmente, estou me aprofundando em bancos de dados e APIs RESTfulğŸ”
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Kotlin%20logo.png?raw=true" alt="Kotlin" width="40" height="40"/> 
-<img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringBoot.png" alt="SpringBoot" width="40" height="40"/> 
+<a href = "https://kotlinlang.org/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Kotlin%20logo.png?raw=true" alt="Kotlin" width="40" height="40"/></a>
+<a href = "https://spring.io/projects/spring-boot"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringBoot.png" alt="SpringBoot" width="40" height="40"/></a> 
 
 

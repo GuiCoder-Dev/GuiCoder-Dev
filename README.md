@@ -7,6 +7,8 @@ Atualmente, estou me aprofundando em bancos de dados e APIs RESTful e IA🔍
 <h3 align="left">Linguagens e ferramentas:</h3>
 <a href = "https://kotlinlang.org/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Kotlin%20logo.png?raw=true" alt="Kotlin" width="40" height="40"/></a> 
 <a href = "https://spring.io/projects/spring-boot"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringBoot.png" alt="SpringBoot" width="40" height="40"/></a> 
+<a href = "https://spring.io/projects/spring-ai"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringAI.png?raw=true" alt="SpringAI" width="40" height="40"/></a> 
 <a href = "https://www.mysql.com/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Mysql%20logo.png?raw=true" alt="MYSql" width="40" height="40"/></a> 
 <a href = "https://www.docker.com/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Docker-removebg-preview.png?raw=true" alt="Docker" width="40" height="40"/></a> 
+
 

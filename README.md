@@ -5,6 +5,7 @@ Sou um aprendiz curioso, sempre buscando evoluir 🚀 e explorar novas tecnologi
 Atualmente, estou me aprofundando em bancos de dados e APIs RESTful e IA🔍  
 
 <h3 align="left">Linguagens e ferramentas:</h3>
+<a href = "https://www.java.com/pt-BR/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Java.png?raw=true" alt="Java" width="50" height="50"/></a> 
 <a href = "https://kotlinlang.org/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Kotlin%20logo.png?raw=true" alt="Kotlin" width="40" height="40"/></a> 
 <a href = "https://spring.io/projects/spring-boot"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringBoot.png" alt="SpringBoot" width="40" height="40"/></a> 
 <a href = "https://spring.io/projects/spring-ai"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringAI.png?raw=true" alt="SpringAI" width="40" height="40"/></a> 

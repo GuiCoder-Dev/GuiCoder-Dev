@@ -11,5 +11,5 @@ Atualmente, estou me aprofundando em APIs RESTful, desenvolvimento front-end com
 <a href = "https://spring.io/projects/spring-ai"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/SpringAI.png?raw=true" alt="SpringAI" width="40" height="40"/></a> 
 <a href = "https://www.mysql.com/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Mysql%20logo.png?raw=true" alt="MYSql" width="40" height="40"/></a> 
 <a href = "https://www.docker.com/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Docker-removebg-preview.png?raw=true" alt="Docker" width="40" height="40"/></a> 
-
+<a href = "https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 

@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento back-end 💻 e por criar APIs com Kotlin + Spring Boot ou Java + Spring Boot. 
 Sou um aprendiz curioso, sempre buscando evoluir 🚀 e explorar novas tecnologias.
-Atualmente, estou me aprofundando em APIs RESTful, desenvolvimento Frontend com React e IA🔍  
+Atualmente, estou me aprofundando em APIs RESTful, desenvolvimento front-end com React e IA🔍  
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <a href = "https://www.java.com/pt-BR/"><img src="https://github.com/GuiCoder-Dev/GuiCoder-Dev/blob/main/Java.png?raw=true" alt="Java" width="50" height="50"/></a> 
